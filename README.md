@@ -136,7 +136,7 @@ Turmas
 
 **Básica**
 
-Almeida, Rodrigo Maximiniano A. **Programação de Sistemas Embarcados ­ Desenvolvendo Software para Microcontroladores em Linguagem C**. São Paulo: Grupo GEN, 2016. <br>
+Almeida, Rodrigo Maximiniano A. **Programação de Sistemas Embarcados -­ Desenvolvendo Software para Microcontroladores em Linguagem C**. São Paulo: Grupo GEN, 2016. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595156371
 
 Monk, Simon. **Programação com Arduino: Começando com Sketches**. 2 Ed. Porto Alegre: Bookman, 2017. <br>
