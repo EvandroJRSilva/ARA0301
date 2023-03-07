@@ -21,7 +21,7 @@ Repositório para aulas e demais materiais da disciplina ARA0301 da Faculdade Es
    2. Conversores analógico-digitais para criação de sistemas de aquisição de dados com microcontroladores
    3. Uso de temporizadores e contadores para o desenvolvimento de sistemas de tempo real com microcontroladores
    4. Uso da modulação por largura de pulso (PWM) para o controle de dispositivos externos
-4. Periféricos externos (**crédito digital**)
+4. Periféricos externos (**atividade prática supervisionada**)
    1. Funções de programação de protocolos de transmissão de dados em microcontroladores para a comunicação com dispositivos externos
    2. Sensores e atuadores para a programação de sistemas de controle embarcados
    3. Funções para a programação de mostradores na criação de interfaces com o usuário
@@ -82,7 +82,7 @@ Turmas
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 |    |    |    | 01 | 02 |
-| 05 | 06 | ![07Jun](https://placehold.co/25/red/white?text=07) | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=21) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
+| 05 | 06 | ![07Jun](https://placehold.co/25/red/white?text=07) | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=08) | 09 |
 | 12 | 13 | ![14Jun](https://placehold.co/25/limegreen/white?text=14) | 15 | 16 |
 | 19 | 20 | ![21Jun](https://placehold.co/25/red/white?text=21) | 22 | 23 |
 | 26 | 27 | 28 | 29 | 30 |
@@ -100,7 +100,7 @@ Turmas
 
 ## **Avaliação**
 
-* Média = (AV1 + AV2 + AVD)/3
+* Média = (AV1 + AV2)/2
   * Valor mínimo: 6,0.
   * AV1
     * Prova + Trabalho.
@@ -110,11 +110,6 @@ Turmas
     * Prova + Trabalho.
     * Valor mínimo: 4,0.
     * É possível o acréscimo de 1,0 ponto através do AvA 3 e AvA 4 (0,5 de cada).
-  * AVD
-    * Prova.
-    * Valor mínimo: 4,0.
-    * Corresponde ao conteúdo do Crédito Digital.
-    * Ocorre no mesmo período da AV2.
   * AV3
     * Prova substitutiva.
     * O aluno deverá fazer essa prova se
@@ -122,11 +117,6 @@ Turmas
       * AV1 ou AV2 estiver com valor abaixo de 4,0, ou
       * Média abaixo de 6,0.
     * O valor dessa prova substituirá o menor valor entre AV1 e AV2.
-  * AVDS
-    * Prova substitutiva.
-    * O aluno deverá fazer essa prova se,
-      * Tiver faltado AVD, ou
-      * AVD com valor abaixo de 4,0.
 * Frequência mínima: 75%
   * Lembre que falta também reprova!
 
